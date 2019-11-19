@@ -52,7 +52,7 @@ dataset_dir + /Glove/glove.6B.50d.txt.word2vec are necessary (https://radimrehur
 
 ### Data
 We do not create any new datasets and all credits go to the following:
-Harvard-nlp: https://github.com/CS287/HW1/tree/master/data
-Sentiment-analysis: https://github.com/hallr/DAT_SF_19/tree/master/data
+- Harvard-nlp: https://github.com/CS287/HW1/tree/master/data
+- Sentiment-analysis: https://github.com/hallr/DAT_SF_19/tree/master/data
 
 Paper: [link](https://www.aclweb.org/anthology/D19-1411/)
