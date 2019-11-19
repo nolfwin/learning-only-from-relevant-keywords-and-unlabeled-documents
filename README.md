@@ -56,6 +56,8 @@ We do not create any new datasets and all credits go to the following:
 - Sentiment-analysis: https://github.com/hallr/DAT_SF_19/tree/master/data
 
 
-Nontawat Charoenphakdee, Jongyeong Lee, Yiping Jin, Dittaya Wanvarie, Masashi Sugiyama. "Learning Only from Relevant Keywords and Unlabeled Documents." Proceedings of the 2019 Conference on Empirical Methods in Natural Language Processing and the 9th International Joint Conference on Natural Language Processing (EMNLP-IJCNLP). 2019.
+### Reference
+
+[1] Nontawat Charoenphakdee, Jongyeong Lee, Yiping Jin, Dittaya Wanvarie, Masashi Sugiyama. "Learning Only from Relevant Keywords and Unlabeled Documents." Proceedings of the 2019 Conference on Empirical Methods in Natural Language Processing and the 9th International Joint Conference on Natural Language Processing (EMNLP-IJCNLP). 2019.
 
 Paper: [link](https://www.aclweb.org/anthology/D19-1411/)
