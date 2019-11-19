@@ -50,4 +50,9 @@ In config.py, default data location was set ./data. <br>
 You might need to change it to run in your own computer. <br>
 dataset_dir + /Glove/glove.6B.50d.txt.word2vec are necessary (https://radimrehurek.com/gensim/scripts/glove2word2vec.html).
 
+### Data
+We do not create any new datasets and all credits go to the following:
+Harvard-nlp: https://github.com/CS287/HW1/tree/master/data
+Sentiment-analysis: https://github.com/hallr/DAT_SF_19/tree/master/data
+
 Paper: [link](https://www.aclweb.org/anthology/D19-1411/)
