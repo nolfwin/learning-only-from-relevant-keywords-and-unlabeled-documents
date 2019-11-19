@@ -13,7 +13,7 @@ Learning Only from Relevant Keywords and Unlabeled Documents (EMNLP-IJCNLP 2019)
 - GloVe word2vec text file in ./data/Glove/glove.6B.50d.txt.word2vec
 
 ### Setup
-Unfortunately since the software size is limited by 10MB in the submission. We can't include the file ./data/Glove/glove.6B.50d.txt.word2vec
+We do not include the file ./data/Glove/glove.6B.50d.txt.word2vec because it is large.
 Please download glove.6B.50d.txt from the GloVe website and please run the following command:
 >
     from gensim.test.utils import datapath, get_tmpfile
