@@ -14,7 +14,7 @@ Learning Only from Relevant Keywords and Unlabeled Documents (EMNLP-IJCNLP 2019)
 
 ### Setup
 We do not include the file ./data/Glove/glove.6B.50d.txt.word2vec because it is large.
-Please download glove.6B.50d.txt from the GloVe website and please run the following command:
+Please download glove.6B.50d.txt from the [GloVe website](https://nlp.stanford.edu/projects/glove/) and please run the following command:
 >
     from gensim.test.utils import datapath, get_tmpfile
     from gensim.models import KeyedVectors
